@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LoremIpsum",
+        "repositoryURL": "https://github.com/lukaskubanek/LoremIpsum",
+        "state": {
+          "branch": null,
+          "revision": "e7c764bdcca6d5448102c760c1d1db0318ea708e",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
